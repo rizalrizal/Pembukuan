@@ -1,4 +1,4 @@
-# PEMBUKUAN
+## Aplikasi Pembukuan Sederhana
 
 - Import pembukuan.sql pada folder #FILE SQL
 - Ubah nama file .env.example menjadi .env dana sesuaikan dengan username,password, dan db anda
